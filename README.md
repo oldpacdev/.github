@@ -1,5 +1,5 @@
 --------
 ```zsh
-user@os~# ./visual
+user@os~$ ./visual
 ```
 --------
